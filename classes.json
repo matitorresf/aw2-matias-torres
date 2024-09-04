@@ -1,0 +1,353 @@
+[
+    {
+        "class_id": 1,
+        "teacher_id": 2,
+        "students": [
+            14,
+            30,
+            2,
+            28,
+            10,
+            18,
+            33,
+            31,
+            50,
+            40,
+            7,
+            27,
+            3,
+            20
+        ],
+        "description": "Court right I day TV. Six participant candidate.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 2,
+        "teacher_id": 3,
+        "students": [
+            25,
+            38,
+            31,
+            42,
+            16,
+            3
+        ],
+        "description": "Cause remain especially enter follow.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 3,
+        "teacher_id": 2,
+        "students": [
+            22,
+            39,
+            6,
+            25,
+            49,
+            17,
+            43
+        ],
+        "description": "Authority forget place floor happen.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 4,
+        "teacher_id": 1,
+        "students": [
+            38,
+            26,
+            28,
+            31,
+            33
+        ],
+        "description": "Bad both chance exactly four marriage.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 5,
+        "teacher_id": 5,
+        "students": [
+            45,
+            5,
+            29,
+            28,
+            30,
+            33,
+            13,
+            7,
+            36,
+            26,
+            16
+        ],
+        "description": "Range property factor.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 6,
+        "teacher_id": 2,
+        "students": [
+            40,
+            37,
+            10,
+            17,
+            24
+        ],
+        "description": "Many week place line find teach reality.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 7,
+        "teacher_id": 4,
+        "students": [
+            9,
+            15,
+            22,
+            14,
+            36,
+            29,
+            4,
+            44,
+            38,
+            37
+        ],
+        "description": "Bill watch body could wonder send police woman.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 8,
+        "teacher_id": 5,
+        "students": [
+            13,
+            19,
+            1,
+            27,
+            43
+        ],
+        "description": "Scientist thousand sport cut indeed more full.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 9,
+        "teacher_id": 2,
+        "students": [
+            3,
+            41,
+            44,
+            27,
+            15,
+            40,
+            38,
+            25,
+            30,
+            10,
+            39,
+            42,
+            18
+        ],
+        "description": "Although performance foreign common.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 10,
+        "teacher_id": 2,
+        "students": [
+            24,
+            43,
+            32,
+            10,
+            6,
+            45,
+            19,
+            35,
+            31,
+            33,
+            48,
+            39,
+            50,
+            21,
+            30
+        ],
+        "description": "Spring song class plan street light crime.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 11,
+        "teacher_id": 1,
+        "students": [
+            24,
+            5,
+            21,
+            20,
+            46,
+            25,
+            40,
+            39,
+            43,
+            10,
+            6,
+            48,
+            7,
+            34,
+            35
+        ],
+        "description": "Top network moment election without.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 12,
+        "teacher_id": 1,
+        "students": [
+            43,
+            50,
+            41,
+            24,
+            48,
+            37
+        ],
+        "description": "Affect specific sometimes success machine large.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 13,
+        "teacher_id": 5,
+        "students": [
+            31,
+            26,
+            46,
+            13,
+            42,
+            8
+        ],
+        "description": "Part city movie century PM interest maybe.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 14,
+        "teacher_id": 4,
+        "students": [
+            14,
+            46,
+            12,
+            45,
+            37,
+            43
+        ],
+        "description": "Big same state third painting base major hit.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 15,
+        "teacher_id": 2,
+        "students": [
+            14,
+            11,
+            26,
+            25,
+            22,
+            3,
+            41,
+            50,
+            46,
+            7
+        ],
+        "description": "Be four them it even military.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 16,
+        "teacher_id": 4,
+        "students": [
+            27,
+            8,
+            21,
+            32,
+            38,
+            48,
+            42,
+            31
+        ],
+        "description": "Necessary possible worker strong.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 17,
+        "teacher_id": 3,
+        "students": [
+            46,
+            22,
+            31,
+            28,
+            6,
+            48,
+            45,
+            20,
+            4,
+            5,
+            21,
+            3,
+            23
+        ],
+        "description": "Speak century center sister impact art.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 18,
+        "teacher_id": 3,
+        "students": [
+            33,
+            43,
+            18,
+            19,
+            8,
+            17,
+            3,
+            27,
+            45,
+            28,
+            36,
+            9,
+            31,
+            12,
+            42
+        ],
+        "description": "Court ready really just learn decade.",
+        "is_virtual": false
+    },
+    {
+        "class_id": 19,
+        "teacher_id": 3,
+        "students": [
+            1,
+            14,
+            11,
+            10,
+            44,
+            18
+        ],
+        "description": "When feel send whom vote hear responsibility.",
+        "is_virtual": true
+    },
+    {
+        "class_id": 20,
+        "teacher_id": 2,
+        "students": [
+            25,
+            12,
+            3,
+            14,
+            9,
+            27,
+            7,
+            26,
+            17,
+            31,
+            23,
+            39,
+            24,
+            8,
+            33
+        ],
+        "description": "Yard his cover skill rate hundred side.",
+        "is_virtual": true
+    }
+]

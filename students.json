@@ -1,0 +1,402 @@
+[
+    {
+        "student_id": 1,
+        "first_name": "Brianna",
+        "last_name": "Burke",
+        "age": 23,
+        "email": "marksoto@example.org",
+        "phone_number": "001-552-771-9118x748"
+    },
+    {
+        "student_id": 2,
+        "first_name": "Paul",
+        "last_name": "Williams",
+        "age": 21,
+        "email": "christopherjohnson@example.org",
+        "phone_number": "+1-499-755-6054x38217"
+    },
+    {
+        "student_id": 3,
+        "first_name": "Kathryn",
+        "last_name": "Bennett",
+        "age": 33,
+        "email": "eturner@example.com",
+        "phone_number": "001-598-510-7312x04819"
+    },
+    {
+        "student_id": 4,
+        "first_name": "Jacob",
+        "last_name": "Sloan",
+        "age": 18,
+        "email": "christina58@example.com",
+        "phone_number": "(246)304-3493x033"
+    },
+    {
+        "student_id": 5,
+        "first_name": "Sara",
+        "last_name": "Bailey",
+        "age": 19,
+        "email": "holly74@example.net",
+        "phone_number": "447-919-1269x89024"
+    },
+    {
+        "student_id": 6,
+        "first_name": "Jason",
+        "last_name": "Watson",
+        "age": 25,
+        "email": "nathanlong@example.org",
+        "phone_number": "+1-405-455-9507x794"
+    },
+    {
+        "student_id": 7,
+        "first_name": "Kelli",
+        "last_name": "Rivera",
+        "age": 32,
+        "email": "howardhall@example.net",
+        "phone_number": "(220)659-4414"
+    },
+    {
+        "student_id": 8,
+        "first_name": "Sabrina",
+        "last_name": "Erickson",
+        "age": 26,
+        "email": "vrodriguez@example.com",
+        "phone_number": "(239)588-5567x4086"
+    },
+    {
+        "student_id": 9,
+        "first_name": "Tommy",
+        "last_name": "Rodriguez",
+        "age": 32,
+        "email": "dorothy37@example.net",
+        "phone_number": "251-484-9244x2794"
+    },
+    {
+        "student_id": 10,
+        "first_name": "Brett",
+        "last_name": "Hernandez",
+        "age": 20,
+        "email": "carolbeck@example.net",
+        "phone_number": "001-484-418-2516x2640"
+    },
+    {
+        "student_id": 11,
+        "first_name": "Jason",
+        "last_name": "Mccullough",
+        "age": 29,
+        "email": "thowell@example.net",
+        "phone_number": "001-269-919-4722x47968"
+    },
+    {
+        "student_id": 12,
+        "first_name": "James",
+        "last_name": "Hernandez",
+        "age": 35,
+        "email": "jeffreycole@example.org",
+        "phone_number": "+1-867-721-1547x5621"
+    },
+    {
+        "student_id": 13,
+        "first_name": "Jay",
+        "last_name": "Tran",
+        "age": 27,
+        "email": "watkinsjohn@example.com",
+        "phone_number": "(377)426-7918"
+    },
+    {
+        "student_id": 14,
+        "first_name": "Kim",
+        "last_name": "Klein",
+        "age": 30,
+        "email": "henrydaniel@example.org",
+        "phone_number": "8409950782"
+    },
+    {
+        "student_id": 15,
+        "first_name": "Melissa",
+        "last_name": "Ochoa",
+        "age": 18,
+        "email": "qmelendez@example.net",
+        "phone_number": "001-990-600-6165x7605"
+    },
+    {
+        "student_id": 16,
+        "first_name": "Jordan",
+        "last_name": "Gordon",
+        "age": 32,
+        "email": "pchen@example.net",
+        "phone_number": "(838)637-9032"
+    },
+    {
+        "student_id": 17,
+        "first_name": "Jamie",
+        "last_name": "Mejia",
+        "age": 31,
+        "email": "riosheidi@example.com",
+        "phone_number": "001-637-343-1023x5982"
+    },
+    {
+        "student_id": 18,
+        "first_name": "Eric",
+        "last_name": "Garcia",
+        "age": 19,
+        "email": "robert43@example.com",
+        "phone_number": "+1-601-635-8002x24374"
+    },
+    {
+        "student_id": 19,
+        "first_name": "Heather",
+        "last_name": "Kennedy",
+        "age": 27,
+        "email": "gerald26@example.net",
+        "phone_number": "+1-423-913-8241x7070"
+    },
+    {
+        "student_id": 20,
+        "first_name": "Michael",
+        "last_name": "Burke",
+        "age": 24,
+        "email": "brandonlittle@example.com",
+        "phone_number": "486.680.8870x414"
+    },
+    {
+        "student_id": 21,
+        "first_name": "John",
+        "last_name": "Campbell",
+        "age": 26,
+        "email": "greggadkins@example.net",
+        "phone_number": "677-800-3321x858"
+    },
+    {
+        "student_id": 22,
+        "first_name": "Michele",
+        "last_name": "Nelson",
+        "age": 23,
+        "email": "cleblanc@example.org",
+        "phone_number": "001-484-315-4315x821"
+    },
+    {
+        "student_id": 23,
+        "first_name": "Jon",
+        "last_name": "Mcbride",
+        "age": 23,
+        "email": "jeffrey84@example.com",
+        "phone_number": "921.721.1859x7546"
+    },
+    {
+        "student_id": 24,
+        "first_name": "Charles",
+        "last_name": "Deleon",
+        "age": 20,
+        "email": "zchambers@example.org",
+        "phone_number": "001-371-677-8378x7501"
+    },
+    {
+        "student_id": 25,
+        "first_name": "James",
+        "last_name": "Ellison",
+        "age": 20,
+        "email": "bartletttammy@example.com",
+        "phone_number": "320-728-9390"
+    },
+    {
+        "student_id": 26,
+        "first_name": "Amanda",
+        "last_name": "Miller",
+        "age": 18,
+        "email": "larsonrick@example.com",
+        "phone_number": "(202)981-5645"
+    },
+    {
+        "student_id": 27,
+        "first_name": "Anna",
+        "last_name": "Wright",
+        "age": 21,
+        "email": "stevenwood@example.org",
+        "phone_number": "(297)816-7091x3951"
+    },
+    {
+        "student_id": 28,
+        "first_name": "Holly",
+        "last_name": "Nelson",
+        "age": 25,
+        "email": "pwalker@example.net",
+        "phone_number": "+1-669-613-1576x5740"
+    },
+    {
+        "student_id": 29,
+        "first_name": "Corey",
+        "last_name": "Hoover",
+        "age": 34,
+        "email": "ogray@example.org",
+        "phone_number": "(782)726-8225x517"
+    },
+    {
+        "student_id": 30,
+        "first_name": "Jean",
+        "last_name": "Wilson",
+        "age": 33,
+        "email": "munozmichael@example.com",
+        "phone_number": "470-540-1727"
+    },
+    {
+        "student_id": 31,
+        "first_name": "Lori",
+        "last_name": "Holden",
+        "age": 24,
+        "email": "herreraphillip@example.com",
+        "phone_number": "303.239.2211"
+    },
+    {
+        "student_id": 32,
+        "first_name": "Christopher",
+        "last_name": "Price",
+        "age": 18,
+        "email": "garciabrooke@example.com",
+        "phone_number": "(477)995-1615x662"
+    },
+    {
+        "student_id": 33,
+        "first_name": "Sarah",
+        "last_name": "Santiago",
+        "age": 26,
+        "email": "murphykimberly@example.com",
+        "phone_number": "228.227.5815x090"
+    },
+    {
+        "student_id": 34,
+        "first_name": "Kevin",
+        "last_name": "Diaz",
+        "age": 33,
+        "email": "tranjared@example.net",
+        "phone_number": "001-458-855-0701x886"
+    },
+    {
+        "student_id": 35,
+        "first_name": "Courtney",
+        "last_name": "Cisneros",
+        "age": 24,
+        "email": "rhuff@example.org",
+        "phone_number": "467-239-2961"
+    },
+    {
+        "student_id": 36,
+        "first_name": "Victor",
+        "last_name": "Keller",
+        "age": 29,
+        "email": "kristine10@example.org",
+        "phone_number": "001-643-763-1575"
+    },
+    {
+        "student_id": 37,
+        "first_name": "Heather",
+        "last_name": "Hernandez",
+        "age": 32,
+        "email": "michael59@example.net",
+        "phone_number": "(315)623-3830"
+    },
+    {
+        "student_id": 38,
+        "first_name": "Patricia",
+        "last_name": "Foley",
+        "age": 29,
+        "email": "victorbarrett@example.com",
+        "phone_number": "+1-473-513-4560x453"
+    },
+    {
+        "student_id": 39,
+        "first_name": "Rebecca",
+        "last_name": "Marks",
+        "age": 22,
+        "email": "ritajackson@example.net",
+        "phone_number": "360.356.3757"
+    },
+    {
+        "student_id": 40,
+        "first_name": "Melissa",
+        "last_name": "Morgan",
+        "age": 20,
+        "email": "robinsonsarah@example.net",
+        "phone_number": "+1-447-610-1955x9886"
+    },
+    {
+        "student_id": 41,
+        "first_name": "John",
+        "last_name": "Oneal",
+        "age": 30,
+        "email": "orodriguez@example.com",
+        "phone_number": "001-696-273-0945x4995"
+    },
+    {
+        "student_id": 42,
+        "first_name": "Robert",
+        "last_name": "Flowers",
+        "age": 23,
+        "email": "millsjennifer@example.com",
+        "phone_number": "439.966.8454"
+    },
+    {
+        "student_id": 43,
+        "first_name": "Belinda",
+        "last_name": "Williams",
+        "age": 20,
+        "email": "qwhite@example.org",
+        "phone_number": "678-527-6737"
+    },
+    {
+        "student_id": 44,
+        "first_name": "Samantha",
+        "last_name": "Hawkins",
+        "age": 21,
+        "email": "williamsmaurice@example.net",
+        "phone_number": "792.393.7140x621"
+    },
+    {
+        "student_id": 45,
+        "first_name": "Kelly",
+        "last_name": "Hale",
+        "age": 27,
+        "email": "zthompson@example.com",
+        "phone_number": "+1-949-261-9031x2554"
+    },
+    {
+        "student_id": 46,
+        "first_name": "Edwin",
+        "last_name": "Flores",
+        "age": 25,
+        "email": "kathleenmunoz@example.net",
+        "phone_number": "+1-810-719-1660"
+    },
+    {
+        "student_id": 47,
+        "first_name": "Angela",
+        "last_name": "Dennis",
+        "age": 34,
+        "email": "paullopez@example.org",
+        "phone_number": "236-430-8495x09451"
+    },
+    {
+        "student_id": 48,
+        "first_name": "Trevor",
+        "last_name": "Young",
+        "age": 33,
+        "email": "andrew51@example.net",
+        "phone_number": "001-226-965-6482x3049"
+    },
+    {
+        "student_id": 49,
+        "first_name": "Alexis",
+        "last_name": "Phelps",
+        "age": 19,
+        "email": "claudiaanderson@example.com",
+        "phone_number": "001-422-240-7508x23186"
+    },
+    {
+        "student_id": 50,
+        "first_name": "Kathryn",
+        "last_name": "Case",
+        "age": 30,
+        "email": "eevans@example.net",
+        "phone_number": "783-397-1835x72661"
+    }
+]
