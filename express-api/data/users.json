@@ -1,0 +1,72 @@
+[
+    {
+        "user_id": 1,
+        "user_name": "Joaquin",
+        "user_last_name": "Roldan",
+        "user_password": "_hyntCK^2Z",
+        "user_email": "JoaquinRoldan@gmail.com"
+    },
+    {
+        "user_id": 2,
+        "user_name": "Mia",
+        "user_last_name": "Martinez",
+        "user_password": "ye!2UKLh$D",
+        "user_email": "MiaMartinez@yahoo.com"
+    },
+    {
+        "user_id": 3,
+        "user_name": "Martina",
+        "user_last_name": "Castro",
+        "user_password": "(fcEMm*J1^",
+        "user_email": "Martina-Castro@outlook.com.ar"
+    },
+    {
+        "user_id": 4,
+        "user_name": "Zoe",
+        "user_last_name": "Ortiz",
+        "user_password": "_2Jg@%VvZs",
+        "user_email": "Zoe-Ortiz@hotmail.com"
+    },
+    {
+        "user_id": 5,
+        "user_name": "Manuel",
+        "user_last_name": "Duarte",
+        "user_password": "*)RTi#tP!8",
+        "user_email": "Manuel-Duarte@hotmail.com"
+    },
+    {
+        "user_id": 6,
+        "user_name": "Juan Pablo",
+        "user_last_name": "Caceres",
+        "user_password": "H!0T4aTpPM",
+        "user_email": "JuanPabloCaceres@gmail.com"
+    },
+    {
+        "user_id": 7,
+        "user_name": "Tomas Benjamin",
+        "user_last_name": "Moreno",
+        "user_password": "^3O$KducHO",
+        "user_email": "TomasBenjamin-Moreno@yahoo.com"
+    },
+    {
+        "user_id": 8,
+        "user_name": "Tomas",
+        "user_last_name": "Castro",
+        "user_password": "m2Sg^BxC+N",
+        "user_email": "Tomas-Castro@yahoo.com"
+    },
+    {
+        "user_id": 9,
+        "user_name": "Justina",
+        "user_last_name": "Martinez",
+        "user_password": "6bGG0a+k_0",
+        "user_email": "Justina_Martinez@outlook.com.ar"
+    },
+    {
+        "user_id": 10,
+        "user_name": "Lucio",
+        "user_last_name": "Perez",
+        "user_password": "C62r^X*k#E",
+        "user_email": "LucioPerez@outlook.com.ar"
+    }
+]

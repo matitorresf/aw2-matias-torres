@@ -1,0 +1,247 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Fisioterapeuta",
+        "product_description": "Aut quo sunt cumque. Impedit quod vel.",
+        "product_price": 4484,
+        "product_image": "https://placehold.co/300x400?text=Fisioterapeuta"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Bombero",
+        "product_description": "Commodi assumenda nesciunt distinctio.",
+        "product_price": 24770,
+        "product_image": "https://placehold.co/300x400?text=Bombero"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Asesor de inversiones",
+        "product_description": "At modi ullam amet tenetur alias quasi.",
+        "product_price": 3868,
+        "product_image": "https://placehold.co/300x400?text=Asesor\nde\ninversiones"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Empleado de servicios de correos",
+        "product_description": "Expedita quia sint cumque iusto earum ea.",
+        "product_price": 11506,
+        "product_image": "https://placehold.co/300x400?text=Empleado\nde\nservicios\nde\ncorreos"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Diseñador de bases de datos",
+        "product_description": "Impedit quam aspernatur nobis.",
+        "product_price": 28997,
+        "product_image": "https://placehold.co/300x400?text=Diseñador\nde\nbases\nde\ndatos"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Director de servicios de salud",
+        "product_description": "Ab omnis sint ipsam.",
+        "product_price": 18446,
+        "product_image": "https://placehold.co/300x400?text=Director\nde\nservicios\nde\nsalud"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Ebanista",
+        "product_description": "Mollitia at nam enim harum.",
+        "product_price": 20127,
+        "product_image": "https://placehold.co/300x400?text=Ebanista"
+    },
+    {
+        "product_id": 8,
+        "product_name": "Cristalero",
+        "product_description": "Molestiae tenetur repellendus cum asperiores.",
+        "product_price": 19039,
+        "product_image": "https://placehold.co/300x400?text=Cristalero"
+    },
+    {
+        "product_id": 9,
+        "product_name": "Recolector de basura y material reciclable",
+        "product_description": "Et commodi provident ut doloremque.",
+        "product_price": 4736,
+        "product_image": "https://placehold.co/300x400?text=Recolector\nde\nbasura\ny\nmaterial\nreciclable"
+    },
+    {
+        "product_id": 10,
+        "product_name": "Filósofo",
+        "product_description": "Et esse quo dolores eos.",
+        "product_price": 27869,
+        "product_image": "https://placehold.co/300x400?text=Filósofo"
+    },
+    {
+        "product_id": 11,
+        "product_name": "Meteorólogo",
+        "product_description": "Vel quam consectetur debitis officia nihil.",
+        "product_price": 12344,
+        "product_image": "https://placehold.co/300x400?text=Meteorólogo"
+    },
+    {
+        "product_id": 12,
+        "product_name": "Secretario médicos",
+        "product_description": "Itaque quo facere enim dolorum aut.",
+        "product_price": 13158,
+        "product_image": "https://placehold.co/300x400?text=Secretario\nmédicos"
+    },
+    {
+        "product_id": 13,
+        "product_name": "Operador de instalaciones de tratamiento de agua",
+        "product_description": "Odio asperiores ullam ex ratione.",
+        "product_price": 12207,
+        "product_image": "https://placehold.co/300x400?text=Operador\nde\ninstalaciones\nde\ntratamiento\nde\nagua"
+    },
+    {
+        "product_id": 14,
+        "product_name": "Prestamista",
+        "product_description": "Quos dolore officia nesciunt beatae mollitia.",
+        "product_price": 8521,
+        "product_image": "https://placehold.co/300x400?text=Prestamista"
+    },
+    {
+        "product_id": 15,
+        "product_name": "Gerente de centros deportivos, de esparcimiento y culturales",
+        "product_description": "Earum minima tenetur repellat aspernatur quos.",
+        "product_price": 18963,
+        "product_image": "https://placehold.co/300x400?text=Gerente\nde\ncentros\ndeportivos,\nde\nesparcimiento\ny\nculturales"
+    },
+    {
+        "product_id": 16,
+        "product_name": "Agente de maniobras",
+        "product_description": "Eius quam maiores unde ab aliquid nulla.",
+        "product_price": 28688,
+        "product_image": "https://placehold.co/300x400?text=Agente\nde\nmaniobras"
+    },
+    {
+        "product_id": 17,
+        "product_name": "Gerente de comercios al por mayor y al por menor",
+        "product_description": "Molestiae cupiditate soluta.",
+        "product_price": 22373,
+        "product_image": "https://placehold.co/300x400?text=Gerente\nde\ncomercios\nal\npor\nmayor\ny\nal\npor\nmenor"
+    },
+    {
+        "product_id": 18,
+        "product_name": "Practicante y asistente médico",
+        "product_description": "Minus itaque illo qui nulla occaecati libero.",
+        "product_price": 7851,
+        "product_image": "https://placehold.co/300x400?text=Practicante\ny\nasistente\nmédico"
+    },
+    {
+        "product_id": 19,
+        "product_name": "Empacador manual",
+        "product_description": "Velit iure tenetur nihil a.",
+        "product_price": 25447,
+        "product_image": "https://placehold.co/300x400?text=Empacador\nmanual"
+    },
+    {
+        "product_id": 20,
+        "product_name": "Supervisor de secretaría",
+        "product_description": "Facere est at excepturi voluptas at.",
+        "product_price": 24181,
+        "product_image": "https://placehold.co/300x400?text=Supervisor\nde\nsecretaría"
+    },
+    {
+        "product_id": 21,
+        "product_name": "Botánico",
+        "product_description": "Alias veritatis vel architecto in.",
+        "product_price": 5535,
+        "product_image": "https://placehold.co/300x400?text=Botánico"
+    },
+    {
+        "product_id": 22,
+        "product_name": "Bordador",
+        "product_description": "Voluptate nostrum rerum quos unde aliquid rerum.",
+        "product_price": 27238,
+        "product_image": "https://placehold.co/300x400?text=Bordador"
+    },
+    {
+        "product_id": 23,
+        "product_name": "Guía de turismo",
+        "product_description": "Eveniet pariatur harum sunt officiis id.",
+        "product_price": 8147,
+        "product_image": "https://placehold.co/300x400?text=Guía\nde\nturismo"
+    },
+    {
+        "product_id": 24,
+        "product_name": "Ingeniero medioambiental",
+        "product_description": "Iure dolorem distinctio corrupti ducimus.",
+        "product_price": 20525,
+        "product_image": "https://placehold.co/300x400?text=Ingeniero\nmedioambiental"
+    },
+    {
+        "product_id": 25,
+        "product_name": "Tramper",
+        "product_description": "Alias veritatis enim consequatur.",
+        "product_price": 24189,
+        "product_image": "https://placehold.co/300x400?text=Tramper"
+    },
+    {
+        "product_id": 26,
+        "product_name": "Declarante de aduana",
+        "product_description": "Quae eos doloremque id non incidunt expedita.",
+        "product_price": 2770,
+        "product_image": "https://placehold.co/300x400?text=Declarante\nde\naduana"
+    },
+    {
+        "product_id": 27,
+        "product_name": "Supervisor en ingeniería de minas",
+        "product_description": "Rem eligendi sapiente a modi quos dolore.",
+        "product_price": 25469,
+        "product_image": "https://placehold.co/300x400?text=Supervisor\nen\ningeniería\nde\nminas"
+    },
+    {
+        "product_id": 28,
+        "product_name": "Fabricante de instrumentos musicales",
+        "product_description": "Error aliquid quas alias nesciunt soluta.",
+        "product_price": 21569,
+        "product_image": "https://placehold.co/300x400?text=Fabricante\nde\ninstrumentos\nmusicales"
+    },
+    {
+        "product_id": 29,
+        "product_name": "Sociólogo",
+        "product_description": "Veniam maxime excepturi ab maxime.",
+        "product_price": 15702,
+        "product_image": "https://placehold.co/300x400?text=Sociólogo"
+    },
+    {
+        "product_id": 30,
+        "product_name": "Trabajador social de nivel medio",
+        "product_description": "Sint molestias ipsum odio perferendis veritatis.",
+        "product_price": 7556,
+        "product_image": "https://placehold.co/300x400?text=Trabajador\nsocial\nde\nnivel\nmedio"
+    },
+    {
+        "product_id": 31,
+        "product_name": "Profesional de la salud y la higiene laboral y ambiental",
+        "product_description": "Quaerat dolore repudiandae maxime quae.",
+        "product_price": 23608,
+        "product_image": "https://placehold.co/300x400?text=Profesional\nde\nla\nsalud\ny\nla\nhigiene\nlaboral\ny\nambiental"
+    },
+    {
+        "product_id": 32,
+        "product_name": "Cartógrafo",
+        "product_description": "Ut libero porro asperiores.",
+        "product_price": 12085,
+        "product_image": "https://placehold.co/300x400?text=Cartógrafo"
+    },
+    {
+        "product_id": 33,
+        "product_name": "Modisto",
+        "product_description": "Nemo et perferendis pariatur ex.",
+        "product_price": 23579,
+        "product_image": "https://placehold.co/300x400?text=Modisto"
+    },
+    {
+        "product_id": 34,
+        "product_name": "Contable",
+        "product_description": "Voluptas reprehenderit optio commodi reiciendis.",
+        "product_price": 6292,
+        "product_image": "https://placehold.co/300x400?text=Contable"
+    },
+    {
+        "product_id": 35,
+        "product_name": "Bombero",
+        "product_description": "Dolorum modi iste unde.",
+        "product_price": 4650,
+        "product_image": "https://placehold.co/300x400?text=Bombero"
+    }
+]

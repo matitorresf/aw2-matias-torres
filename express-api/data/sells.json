@@ -1,0 +1,360 @@
+[
+  {
+    "sell_id": 1,
+    "user_id": 4,
+    "sell_date": "2024-06-23",
+    "sell_total": 166973,
+    "sell_address": "Diagonal Santiago del Estero N° 5770\nCórdoba 5000, Córdoba",
+    "sell_products": [
+      4,
+      35,
+      28,
+      21,
+      9,
+      31,
+      17,
+      20,
+      7,
+      16
+    ]
+  },
+  {
+    "sell_id": 2,
+    "user_id": 6,
+    "sell_date": "2024-01-24",
+    "sell_total": 94972,
+    "sell_address": "Diagonal Formosa N° 264 Oficina 31\nResistencia 3500, Chaco",
+    "sell_products": [
+      9,
+      7,
+      27,
+      13,
+      12,
+      30,
+      18,
+      3
+    ]
+  },
+  {
+    "sell_id": 3,
+    "user_id": 1,
+    "sell_date": "2024-09-06",
+    "sell_total": 132531,
+    "sell_address": "Calle 161 B N° 763 Oficina 50\nComodoro Rivadavia 9000, Chubut",
+    "sell_products": [
+      33,
+      27,
+      8,
+      26,
+      29,
+      19,
+      24
+    ]
+  },
+  {
+    "sell_id": 4,
+    "user_id": 6,
+    "sell_date": "2024-08-03",
+    "sell_total": 156769,
+    "sell_address": "Calle Santa Fe N° 199 Local 8\nUshuaia 9410, Tierra del Fuego",
+    "sell_products": [
+      27,
+      33,
+      16,
+      26,
+      9,
+      35,
+      29,
+      15,
+      32,
+      7
+    ]
+  },
+  {
+    "sell_id": 5,
+    "user_id": 1,
+    "sell_date": "2024-08-04",
+    "sell_total": 164532,
+    "sell_address": "Calle J.B. Alberdi N° 7993 Dto. 1\nSanta Fe 3000, Santa Fe",
+    "sell_products": [
+      1,
+      4,
+      2,
+      8,
+      23,
+      10,
+      14,
+      27,
+      28,
+      12
+    ]
+  },
+  {
+    "sell_id": 6,
+    "user_id": 10,
+    "sell_date": "2024-08-06",
+    "sell_total": 161089,
+    "sell_address": "Calle Tucumán N° 4488\nMendoza 5500, Mendoza",
+    "sell_products": [
+      27,
+      26,
+      18,
+      32,
+      28,
+      30,
+      10,
+      34,
+      19,
+      20
+    ]
+  },
+  {
+    "sell_id": 7,
+    "user_id": 10,
+    "sell_date": "2024-06-26",
+    "sell_total": 168087,
+    "sell_address": "Boulevard La Rioja N° 8683\nComodoro Rivadavia 9000, Chubut",
+    "sell_products": [
+      20,
+      7,
+      8,
+      1,
+      15,
+      31,
+      16,
+      5
+    ]
+  },
+  {
+    "sell_id": 8,
+    "user_id": 5,
+    "sell_date": "2024-07-01",
+    "sell_total": 151398,
+    "sell_address": "Camino 6 N° 75 Local 7\nFormosa 3600, Formosa",
+    "sell_products": [
+      6,
+      16,
+      29,
+      14,
+      30,
+      19,
+      28,
+      27
+    ]
+  },
+  {
+    "sell_id": 9,
+    "user_id": 6,
+    "sell_date": "2024-07-01",
+    "sell_total": 160278,
+    "sell_address": "Avenida Belgrano N° 5267\nRío Gallegos 9400, Santa Cruz",
+    "sell_products": [
+      8,
+      5,
+      16,
+      19,
+      15,
+      30,
+      28,
+      21,
+      1
+    ]
+  },
+  {
+    "sell_id": 10,
+    "user_id": 3,
+    "sell_date": "2024-07-31",
+    "sell_total": 91219,
+    "sell_address": "Calle Omar Nuñez N° 143\nSalta 4400, Salta",
+    "sell_products": [
+      7,
+      9,
+      32,
+      20,
+      14,
+      28
+    ]
+  },
+  {
+    "sell_id": 11,
+    "user_id": 6,
+    "sell_date": "2024-08-25",
+    "sell_total": 45129,
+    "sell_address": "Diag. Formosa N° 4466\nSan Juan 5400, San Juan",
+    "sell_products": [
+      20,
+      3,
+      9,
+      11
+    ]
+  },
+  {
+    "sell_id": 12,
+    "user_id": 8,
+    "sell_date": "2024-06-27",
+    "sell_total": 134771,
+    "sell_address": "Blv. San Luis N° 5559\nCorrientes 3400, Corrientes",
+    "sell_products": [
+      3,
+      9,
+      28,
+      25,
+      16,
+      20,
+      2,
+      26
+    ]
+  },
+  {
+    "sell_id": 13,
+    "user_id": 4,
+    "sell_date": "2024-08-11",
+    "sell_total": 128542,
+    "sell_address": "Blv. Malvinas Argentinas N° 194\nSantiago del Estero 4200, Santiago del Estero",
+    "sell_products": [
+      4,
+      11,
+      31,
+      9,
+      14,
+      34,
+      19,
+      1,
+      12,
+      6
+    ]
+  },
+  {
+    "sell_id": 14,
+    "user_id": 8,
+    "sell_date": "2024-05-29",
+    "sell_total": 92357,
+    "sell_address": "Avenida J.B. Alberdi N° 825\nFormosa 3600, Formosa",
+    "sell_products": [
+      33,
+      6,
+      9,
+      27,
+      7
+    ]
+  },
+  {
+    "sell_id": 15,
+    "user_id": 2,
+    "sell_date": "2024-06-20",
+    "sell_total": 196265,
+    "sell_address": "Blv. 141 B N° 59 Local 27\nSanta Rosa 6300, La Pampa",
+    "sell_products": [
+      30,
+      4,
+      24,
+      20,
+      22,
+      5,
+      33,
+      16,
+      3,
+      7
+    ]
+  },
+  {
+    "sell_id": 16,
+    "user_id": 1,
+    "sell_date": "2024-05-08",
+    "sell_total": 102683,
+    "sell_address": "Calle 117 A N° 33\nSanta Rosa 6300, La Pampa",
+    "sell_products": [
+      6,
+      12,
+      9,
+      27,
+      14,
+      10,
+      1
+    ]
+  },
+  {
+    "sell_id": 17,
+    "user_id": 2,
+    "sell_date": "2024-01-27",
+    "sell_total": 141793,
+    "sell_address": "Av. La Plata N° 664 Local 7\nMendoza 5500, Mendoza",
+    "sell_products": [
+      13,
+      23,
+      27,
+      7,
+      26,
+      20,
+      30,
+      15,
+      17
+    ]
+  },
+  {
+    "sell_id": 18,
+    "user_id": 5,
+    "sell_date": "2024-06-24",
+    "sell_total": 16994,
+    "sell_address": "Diagonal Mendoza N° 942 Torre 1 Dto. 2\nCórdoba 5000, Córdoba",
+    "sell_products": [
+      35,
+      11
+    ]
+  },
+  {
+    "sell_id": 19,
+    "user_id": 2,
+    "sell_date": "2024-06-01",
+    "sell_total": 39753,
+    "sell_address": "Avenida 3 N° 365\nSantiago del Estero 4200, Santiago del Estero",
+    "sell_products": [
+      30,
+      8,
+      12
+    ]
+  },
+  {
+    "sell_id": 20,
+    "user_id": 8,
+    "sell_date": "2024-08-08",
+    "sell_total": 132513,
+    "sell_address": "Diagonal 2 N° 1455\nViedma 8500, Río Negro",
+    "sell_products": [
+      17,
+      20,
+      7,
+      5,
+      16,
+      23
+    ]
+  },
+  {
+    "objeto": "Casa",
+    "sell_id": 21
+  },
+  {
+    "objeto": "Casa",
+    "sell_id": 22
+  },
+  {
+    "objeto": "Casa",
+    "sell_id": 23
+  },
+  {
+    "objeto": "Casa",
+    "sell_id": 24
+  },
+  {
+    "objeto": "Casa",
+    "sell_id": 25
+  },
+  {
+    "objeto": "Casa",
+    "sell_id": 26
+  },
+  {
+    "objeto": "Casa",
+    "sell_id": 27
+  }
+]
